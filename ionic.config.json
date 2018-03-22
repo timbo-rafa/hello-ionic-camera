@@ -1,6 +1,6 @@
 {
   "name": "hello-ionic-camera",
-  "app_id": "",
+  "app_id": "ae5dbf17",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
